@@ -1,5 +1,5 @@
 ﻿change with turtole
-sahko
+sahko go editna
 using System;
 using System.Collections.Generic;
 using System.Linq;
